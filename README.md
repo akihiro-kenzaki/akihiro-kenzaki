@@ -1,16 +1,15 @@
-## Hi there 👋
+## Akihiro Kenzaki
 
-<!--
-**akihiro-kenzaki/akihiro-kenzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical R&D engineer moving into cloud and backend engineering.
+Currently building a reproducible data pipeline to learn production-shaped
+practices: containerized services, idempotent ingestion, and time-series storage.
 
-Here are some ideas to get you started:
+**Certifications** — AWS Certified Solutions Architect – Associate ·
+基本情報技術者 (FE) · ITパスポート
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with** — Python · PostgreSQL / TimescaleDB · Docker Compose · Linux · SQL
+
+**Currently learning** — pytest · Terraform · CI/CD · AWS deployment
+
+📌 [trading-data-pipeline](https://github.com/akihiro-kenzaki/trading-data-pipeline)
+— JP equity OHLCV ingestion and trade-overlay analysis

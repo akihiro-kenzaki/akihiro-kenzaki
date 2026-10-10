@@ -9,9 +9,6 @@ Chemical R&D engineer moving into cloud and backend engineering. Built a reprodu
 **Next on the roadmap** — CI with GitHub Actions · scheduled ingestion
 
 #### 日本語
-化学メーカーの研究開発職から、クラウド・バックエンドエンジニアへの転身を目指しています。
-個人開発として、株価データと売買履歴を収集・蓄積・可視化するデータパイプラインを構築し、
-Terraform で AWS EC2 上へのデプロイと動作確認を行いました。
+化学メーカーの研究開発職から、クラウド・バックエンドエンジニアへの転身を目指しています。個人開発として、株価データと売買履歴を収集・蓄積・可視化するデータパイプラインを構築し、Terraform で AWS EC2 上へのデプロイと動作確認を行いました。
 
-📌 [trading-data-pipeline](https://github.com/akihiro-kenzaki/trading-data-pipeline)
-— JP equity OHLCV ingestion and trade-overlay analysis
+📌 [trading-data-pipeline](https://github.com/akihiro-kenzaki/trading-data-pipeline) — JP equity OHLCV ingestion and trade-overlay analysis
